@@ -1,0 +1,9 @@
+pandas
+numpy
+faker
+boto3
+minio
+pyspark
+duckdb
+great-expectations
+s3fs
